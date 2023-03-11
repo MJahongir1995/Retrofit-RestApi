@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="items">
-       <item>Yangi</item>
-       <item>Bajarilmoqda</item>
-       <item>Tugallandi</item>
+       <item>yangi</item>
+       <item>bajarilmoqda</item>
+       <item>yakunlangan</item>
 
     </string-array>
 </resources>
